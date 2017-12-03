@@ -1,0 +1,18 @@
+NOTE TACTIK
+
+Etape 1 : affichage graphique basique + jeu fonctionnel et opti)
+Etape 2 : ajout de IA (débutant / facile / moyen / difficile / TAC TIK)
+Etape 3 : mise en forme grahique plus précise
+Etape 4 : mise en place de nouvelles règles facultatives pour tester la maintenabilité & évolutivité du code (+ tester nb carte nécéssaire pour le bon fonctionnement d'un partie *4 ou *x)
+	- carte pieu [*4] (un pion de son équipe peu se changer sur sa position)
+	- carte 6* jump [*4] (avance *6, mais si des pions est sur son sur le passage, saute par dessus un jump et tel que:
+		avance jusqu'à la prochaine case vide disponible par exemple, si deux pions se trouve devant lui (pieu ou non) saute de 3 case (comptabilisé comme un jump
+	- (...)
+Etape 5 : Personalisation des cartes de jeu + pions
+Etape 6 : interface historique / chat (idée affichage = à gauche)
+Etape 7 : Personalisation hyper dynamique du plateau de jeu
+- mise en place de redéfinition dynamique de la taille du plateau
+- mise en place de masques de styles + interface (x2 : backgroud + élements)
+interface : idée affichage (nouvelle fenetre de dialoque / à droite) => rendu direct visible
+- affichage police tac tik ou vide
+Etape x : Protocole web & déploiement pour jeu en multi
