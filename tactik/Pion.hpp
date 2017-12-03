@@ -8,6 +8,8 @@
 #include "PionStateInBase.hpp"
 #include "PionStateAccomplished.hpp"
 
+#include <QString>
+
 class Pion
 {
 private:
@@ -21,6 +23,7 @@ private:
 
 public:
     Pion();
+    QString getPathView();
 
 };
 

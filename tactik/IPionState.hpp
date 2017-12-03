@@ -1,7 +1,7 @@
 #ifndef I_PION_SATE
 #define I_PION_SATE
 
-#include "Pion.cpp"
+class Pion;
 
 /*
  * IPionSate est l'interface qui décrit l'état d'un pion

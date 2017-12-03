@@ -7,7 +7,6 @@ Square::Square(int x, int y, QString defaultPathView)
     _x = x;
     _y = y;
     DEFAULT_PATH_VIEW = defaultPathView;
-    _current_path_view = DEFAULT_PATH_VIEW;
     _pion = NULL;
 }
 
