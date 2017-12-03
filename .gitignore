@@ -1,0 +1,5 @@
+# exclude everything except code c++ and resources
+/*
+!/README.md
+!/tactik/ressource
+!/tactik/tactik
